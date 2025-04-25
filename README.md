@@ -1,2 +1,2 @@
 # i2a2autonometa
-This repository is designed to deliver the requested material from the course "Criando Agentes Autônomos com IA Generativa".
+Repositório dedicado para as entregas do curso "Criando Agentes Autônomos com IA Generativa" da I2A2.
